@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @bkurmanbek (Bakytzhan)
-- 👀 I’m interested in machine and deep learning.
+- 👋 Hi, I’m Bakytzhan. 
+- 👀 I’m interested in machine and deep learning, super-resolutions and mathematics.
 - 🌱 I’m currently studying in my master's program in mathematics at University of British Columbia (UBC).
 - 💞️ I’m looking to collaborate on different projects. 
 - 📫 You can reach me through my email: bkurmanbek@math.ubc.ca
