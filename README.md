@@ -13,11 +13,12 @@ I'm Bakytzhan, a Data Scientist with a Master's in Mathematics from the Universi
 *Bachelor of Science in Mathematics (with Honors)* | *2021*  
 
 ## Skills
-- **Languages:** Python, SQL, C++, Bash
-- **Libraries/Frameworks:** LightGBM, CatBoost, TensorFlow, PyTorch
-- **Data Analysis/Visualization:** Pandas, NumPy, Matplotlib
-- **Deep Learning:** Neural Networks, CNNs, GANs
-- **Tools/Platforms:** Git, Docker, AWS
+
+- **Languages:** Python, SQL (PostgreSQL, MySQL), C++, Bash, R  
+- **Libraries/Frameworks:** LightGBM, CatBoost, XGBoost, SVM, TensorFlow, PyTorch, Statsmodels, Seaborn  
+- **Data Analysis/Visualization:** Pandas, NumPy, Matplotlib, Scikit-learn, Plotly, EDA techniques  
+- **Deep Learning:** Neural Networks, CNNs, RNNs, Transfer Learning, LLMs, GANs  
+- **Tools/Platforms:** Git, Docker, Kubernetes, AWS (S3, EC2), Jupyter, VS Code, PyCharm, Airflow  
 
 ## Contact
 Feel free to reach out: [bakytzhan.kurmanbek@nu.edu.kz](mailto:bakytzhan.kurmanbek@nu.edu.kz)
