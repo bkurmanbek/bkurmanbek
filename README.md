@@ -1,23 +1,23 @@
-# Hi there! I'm Bakytzhan 👋
+# Hi there! 👋
 
-I'm a recent Master's graduate in Mathematics from the University of British Columbia (UBC), where I focused on applying mathematical principles in **machine learning** and **data science**.
+I'm Bakytzhan, a Data Scientist with a Master's in Mathematics from the University of British Columbia. I have a passion for applying mathematics and machine learning, particularly in areas like credit risk analysis and imaging.
 
-## Current Focus
-- **Machine Learning Applications**: Exploring techniques in super-resolution imaging and fracture network analysis.
-- **Credit Risk Modeling**: Validating and optimizing models in financial contexts.
+> “Mathematics is the language with which God has written the universe.” – **Galileo Galilei**
+
+## Education
+
+**The University of British Columbia**  
+*Master of Science in Mathematics (with Honors)* | *2023*  
+
+**Nazarbayev University**  
+*Bachelor of Science in Mathematics (with Honors)* | *2021*  
 
 ## Skills
-- **Programming Languages**: Python
-- **Machine Learning Frameworks**: TensorFlow, PyTorch, scikit-learn
-- **Mathematics & Statistics**: Applied mathematics, numerical analysis, statistical methods
+- **Languages:** Python, SQL, C++, Bash
+- **Libraries/Frameworks:** LightGBM, CatBoost, TensorFlow, PyTorch
+- **Data Analysis/Visualization:** Pandas, NumPy, Matplotlib
+- **Deep Learning:** Neural Networks, CNNs, GANs
+- **Tools/Platforms:** Git, Docker, AWS
 
-## Interests
-I'm passionate about collaborating on projects that leverage mathematics to solve real-world problems. If you share similar interests, I'd love to connect!
-
-## Get in Touch
-Feel free to reach out via email:
-- **bakytzhan.kurmanbek@nu.edu.kz**
-- **bpkurmanbek@gmail.com**
-
-Looking forward to connecting!
-
+## Contact
+Feel free to reach out: [bakytzhan.kurmanbek@nu.edu.kz](mailto:bakytzhan.kurmanbek@nu.edu.kz)
