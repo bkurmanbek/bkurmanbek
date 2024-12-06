@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Bakytzhan, a Data Scientist with a Master's in Mathematics from the University of British Columbia. I have a passion for applying mathematics and machine learning, particularly in areas like credit risk analysis and imaging.
+I'm Bakytzhan, a Data Scientist with a Master's in Mathematics from the University of British Columbia. I am now working to build NLP models for the Kazakh language, with a passion for applying mathematics and machine learning in areas like credit risk analysis and imaging.
 
 > “Mathematics is the language with which God has written the universe.” – **Galileo Galilei**
 
@@ -14,11 +14,12 @@ I'm Bakytzhan, a Data Scientist with a Master's in Mathematics from the Universi
 
 ## Skills
 
-- **Languages:** Python, SQL (PostgreSQL, MySQL), C++, Bash, R  
-- **Libraries/Frameworks:** LightGBM, CatBoost, XGBoost, SVM, TensorFlow, PyTorch, Statsmodels, Seaborn  
-- **Data Analysis/Visualization:** Pandas, NumPy, Matplotlib, Scikit-learn, Plotly, EDA techniques  
+- **Languages:** Python, SQL
+- **Libraries/Frameworks:** LightGBM, CatBoost, XGBoost, TensorFlow, PyTorch  
+- **Data Analysis/Visualization:** Pandas, NumPy, Matplotlib, Scikit-learn, Plotly  
 - **Deep Learning:** Neural Networks, CNNs, RNNs, Transfer Learning, LLMs, GANs  
-- **Tools/Platforms:** Git, Docker, Kubernetes, AWS (S3, EC2), Jupyter, VS Code, PyCharm, Airflow  
+- **Tools/Platforms:** Git, Docker, Kubernetes, AWS, Jupyter, VS Code, PyCharm, Airflow  
 
 ## Contact
+
 Feel free to reach out: [bakytzhan.kurmanbek@nu.edu.kz](mailto:bakytzhan.kurmanbek@nu.edu.kz)
