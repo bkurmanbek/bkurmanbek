@@ -17,8 +17,8 @@ I'm Bakytzhan, a Data Scientist with a Master's in Mathematics from the Universi
 - **Languages:** Python, SQL
 - **Libraries/Frameworks:** LightGBM, CatBoost, XGBoost, TensorFlow, PyTorch  
 - **Data Analysis/Visualization:** Pandas, NumPy, Matplotlib, Scikit-learn, Plotly  
-- **Deep Learning:** Neural Networks, CNNs, RNNs, Transfer Learning, LLMs, GANs  
-- **Tools/Platforms:** Git, Docker, Kubernetes, AWS, Jupyter, VS Code, PyCharm, Airflow  
+- **Deep Learning:** Neural Networks, LLMs, CNNs
+- **Tools/Platforms:** Git, Docker
 
 ## Contact
 
