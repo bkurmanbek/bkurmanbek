@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Bakytzhan, a Data Scientist with a Master's in Mathematics from the University of British Columbia. I am now working to build NLP models for the Kazakh language, with a passion for applying mathematics and machine learning in areas like credit risk analysis and imaging.
+I'm Bakytzhan, a Data Scientist with a Master's in Mathematics from the University of British Columbia. I am now working to build LLM models for the Kazakh language, with a passion for applying mathematics and machine learning in areas like credit risk analysis and imaging.
 
 > “Mathematics is the language with which God has written the universe.” – **Galileo Galilei**
 
